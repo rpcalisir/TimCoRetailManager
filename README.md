@@ -1,2 +1,2 @@
 # TimCoRetailManager
-A real world app
+A real world *app*
